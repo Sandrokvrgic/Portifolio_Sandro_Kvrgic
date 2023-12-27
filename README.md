@@ -1,7 +1,7 @@
 # Portifolio_Sandro_Kvrgic
 Included in this repository are two comprehensive reports, each accompanied by their respective codes and datasets. Below, you'll find concise descriptions of the assigned tasks for each report, along with insights into the tools and techniques employed throughout the studies.
 
-Data Mining
+**Data Mining**
 
 Task:
 
@@ -15,7 +15,7 @@ Libraries - pandas, numpy, matplotlib, seaborn, scipy, sklearn, mpl_toolkits
 
 Tehniques - dataset merging, attribute elimination, scaling, standardization, plotting, correlation analysis, linear regression, support vector machines with radial kernel, and various evaluation methods.
 
-Four in a row
+**Four in a row**
 
 Task:
 
