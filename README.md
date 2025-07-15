@@ -1,5 +1,12 @@
 # Portifolio_Sandro_Kvrgic
-Included in this repository are two comprehensive reports, each accompanied by their respective codes and datasets. Below, you'll find concise descriptions of the assigned tasks for each report, along with insights into the tools and techniques employed throughout the studies.
+Included in this repository are three comprehensive reports, each accompanied by their respective codes and datasets. Below, you'll find concise descriptions of the assigned tasks for each report, along with insights into the tools and techniques employed throughout the studies.
+
+**Finding Reported Speech in 17th Century Italian Letters using Machine Learning Methods**
+
+Task:
+
+In a multy disciplinary team we were tasked to find reported speech in 725 Italian letters from 17th century. The team consisted of a historian, language expert and myself, and AI expert. In 5 months of work, we managed to produce some really interesting results, which are shown in the report and can be reproduced by downloading the files from the folder. For more information, I advise to access the READ.ME file specifically made for this project.
+
 
 **Data Mining**
 
