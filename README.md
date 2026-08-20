@@ -35,11 +35,3 @@ Programming language - Python
 
 Libraries - pandas, numpy, matplotlib, JAX, 
 
-
-
-**XAI-Smoothgrad-Rise**
-
-Task:
-
-A short report and a comparision of state of the art explainable AI techniques.
-
