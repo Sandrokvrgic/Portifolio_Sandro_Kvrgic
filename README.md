@@ -25,6 +25,9 @@ Tehniques - dataset merging, attribute elimination, scaling, standardization, pl
 
 
 **Try of improving a metaheuristic state of the art algorithm QOS-OFA (multy agent systems)**
+
+Task:
+
 This project was my BSc thesis project, I developed a more 'natural' variant of the QOS-OFA, closely matching its performance, and in some cases even outperforming the original algorithm. 
 Tools & Tehniques:
 
@@ -35,5 +38,8 @@ Libraries - pandas, numpy, matplotlib, JAX,
 
 
 **XAI-Smoothgrad-Rise**
+
+Task:
+
 A short report and a comparision of state of the art explainable AI techniques.
 
