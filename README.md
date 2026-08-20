@@ -1,5 +1,5 @@
 # Portifolio_Sandro_Kvrgic
-Included in this repository are three comprehensive reports, each accompanied by their respective codes and datasets. Below, you'll find concise descriptions of the assigned tasks for each report, along with insights into the tools and techniques employed throughout the studies.
+Included in this repository are three comprehensive reports, each accompanied by their respective codes and datasets. Below, you'll find concise descriptions of the assigned tasks for each report, along with insights into the tools and techniques employed throughout the studies. The thesis project has by far the best work within this repo.
 
 **Finding Reported Speech in 17th Century Italian Letters using Machine Learning Methods**
 
@@ -22,14 +22,18 @@ Libraries - pandas, numpy, matplotlib, seaborn, scipy, sklearn, mpl_toolkits
 
 Tehniques - dataset merging, attribute elimination, scaling, standardization, plotting, correlation analysis, linear regression, support vector machines with radial kernel, and various evaluation methods.
 
-**Four in a row**
 
-Task:
 
-We were presented with a programmed game known as "Four in a Row," and our challenge was to implement a Minimax algorithm on it. The goal was to create an intelligent computer player that would be unbeatable by human opponents. This task demanded the application of advanced artificial intelligence techniques. By incorporating the Minimax algorithm, we aimed to elevate the computer player's strategic decision-making, ensuring a formidable and challenging adversary for human players. The end of the task was to compare the performance between normal Minimax algorithm and Minimax algorithm with Alpha-Beta pruning.
-
+**Try of improving a metaheuristic state of the art algorithm QOS-OFA (multy agent systems)**
+This project was my BSc thesis project, I developed a more 'natural' variant of the QOS-OFA, closely matching its performance, and in some cases even outperforming the original algorithm. 
 Tools & Tehniques:
 
-Programming language - Java
+Programming language - Python
 
-Tehniques - Minimax algorithm, Minimax algorithm with Alpha-Beta pruning
+Libraries - pandas, numpy, matplotlib, JAX, 
+
+
+
+**XAI-Smoothgrad-Rise**
+A short report and a comparision of state of the art explainable AI techniques.
+
